@@ -1,6 +1,6 @@
 ---Made by miniboi---
 
-Made for Elysian gaming's Garry's mod server, when the plugins let you down, just use this tool to repair them!
+Made for ElysianGaming's Garry's mod server, when the plugins let you down, just use this tool to repair them!
 
 Usage:
 1. Type in Steam's path in the program files (for example: C:\Program Files (x86)\Steam or C:\Program Files\Steam). You can use the Browse-button to browse to the path.
