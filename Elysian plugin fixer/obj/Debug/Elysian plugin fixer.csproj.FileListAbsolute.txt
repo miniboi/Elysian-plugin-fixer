@@ -1,0 +1,9 @@
+C:\Users\Superuser\source\repos\Elysian plugin fixer\Elysian plugin fixer\bin\Debug\Elysian plugin fixer.exe.config
+C:\Users\Superuser\source\repos\Elysian plugin fixer\Elysian plugin fixer\bin\Debug\Elysian plugin fixer.exe
+C:\Users\Superuser\source\repos\Elysian plugin fixer\Elysian plugin fixer\bin\Debug\Elysian plugin fixer.pdb
+C:\Users\Superuser\source\repos\Elysian plugin fixer\Elysian plugin fixer\obj\Debug\Elysian_plugin_fixer.Form1.resources
+C:\Users\Superuser\source\repos\Elysian plugin fixer\Elysian plugin fixer\obj\Debug\Elysian_plugin_fixer.Properties.Resources.resources
+C:\Users\Superuser\source\repos\Elysian plugin fixer\Elysian plugin fixer\obj\Debug\Elysian plugin fixer.csproj.GenerateResource.Cache
+C:\Users\Superuser\source\repos\Elysian plugin fixer\Elysian plugin fixer\obj\Debug\Elysian plugin fixer.csproj.CoreCompileInputs.cache
+C:\Users\Superuser\source\repos\Elysian plugin fixer\Elysian plugin fixer\obj\Debug\Elysian plugin fixer.exe
+C:\Users\Superuser\source\repos\Elysian plugin fixer\Elysian plugin fixer\obj\Debug\Elysian plugin fixer.pdb

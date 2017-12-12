@@ -1,0 +1,32 @@
+{
+	"Addresses": [
+		"138.68.156.164",
+		"178.33.187.134",
+
+		"107.191.55.158",
+		"149.56.96.91",
+
+		"213.32.17.120",
+		"89.34.99.22",
+		"89.34.99.68",
+		"51.254.209.54"
+	],
+	"Hostnames": [
+	],
+	"TranslatedHostnames": [
+	],
+	"Descripts": [
+		"awesomium",
+		"server%s-browser",
+		".-when%s-?"
+	],
+	"Gamemodes": [
+		"awesomium",
+		"server%s-browser",
+		".-when%s-?"
+	],
+	"Maps": [
+	],
+	"Translations": {
+	}
+}
