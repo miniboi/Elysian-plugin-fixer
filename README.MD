@@ -7,3 +7,6 @@ Usage:
 2. Press "Fix" and wait for the progressbar to finnish. When the progresslabel say's "Done!" you are ready to go!
 
 Note: Make sure that Garry's mod and Steam (yes, even in the task manager) is closed before you are trying to fix the files!
+
+Update #1: You may try to subscribe on all the workshop files before using this tool.
+http://steamcommunity.com/sharedfiles/filedetails/?id=722302147
