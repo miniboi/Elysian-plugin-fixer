@@ -11,4 +11,4 @@ Note: Make sure that Garry's mod and Steam (yes, even in the task manager) is cl
 Update #1: You may try to subscribe on all the workshop files before using this tool.
 http://steamcommunity.com/sharedfiles/filedetails/?id=722302147
 
-Update #2: IMPORTANT! I am currently working on more cache-files. I'll update when that's done. Until done, this tool won't be 100% useful.
+Update #2: IMPORTANT! I am currently working on 32 more cache-files. I'll update when that's done. Until done, this tool won't be 100% useful.
