@@ -12,3 +12,5 @@ Update #1: You may try to subscribe on all the workshop files before using this 
 http://steamcommunity.com/sharedfiles/filedetails/?id=722302147
 
 Update #2: IMPORTANT! I am currently working on 32 more cache-files. I'll update when that's done. Until then, this tool won't be 100% useful.
+
+Update #3: New cache-files are included in this update.
