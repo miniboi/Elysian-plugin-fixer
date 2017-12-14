@@ -1,12 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
 using System.Net;
-using System.Threading.Tasks;
 using System.IO;
 using System.Diagnostics;
 using System.Windows.Forms;
@@ -126,8 +119,108 @@ namespace Elysian_plugin_fixer
             progressBar1.Value = 89;
             byte[] font2 = Properties.Resources._170410764609146232;
             File.WriteAllBytes(textBox1.Text + @"\steamapps\common\GarrysMod\garrysmod\cache\workshop\resource\fonts\hidden.ttf", font2);
+
+            //Update #2 starts here!
+
+            byte[] cache1a = Properties.Resources._47629746175825132;
+            File.WriteAllBytes(textBox1.Text + @"\steamapps\common\GarrysMod\garrysmod\cache\workshop\47629746175825132.cache", cache1a);
+
+            byte[] cache1b = Properties.Resources._89351987395614163;
+            File.WriteAllBytes(textBox1.Text + @"\steamapps\common\GarrysMod\garrysmod\cache\workshop\89351987395614163.cache", cache1b);
+
+            byte[] cache2a = Properties.Resources._276219973932937725;
+            File.WriteAllBytes(textBox1.Text + @"\steamapps\common\GarrysMod\garrysmod\cache\workshop\276219973932937725.cache", cache2a);
+
+            byte[] cache2b = Properties.Resources._271725976967090974;
+            File.WriteAllBytes(textBox1.Text + @"\steamapps\common\GarrysMod\garrysmod\cache\workshop\276219973932937725.cache", cache2b);
+
+            byte[] cache2c = Properties.Resources._271725976967064071;
+            File.WriteAllBytes(textBox1.Text + @"\steamapps\common\GarrysMod\garrysmod\cache\workshop\271725976967064071.cache", cache2c);
+
+            byte[] cache2d = Properties.Resources._271725976966910576;
+            File.WriteAllBytes(textBox1.Text + @"\steamapps\common\GarrysMod\garrysmod\cache\workshop\271725976966910576.cache", cache2d);
+
+            byte[] cache2e = Properties.Resources._271725976966814083;
+            File.WriteAllBytes(textBox1.Text + @"\steamapps\common\GarrysMod\garrysmod\cache\workshop\271725976966814083.cache", cache2e);
+
+            byte[] cache2f = Properties.Resources._262714246042402985;
+            File.WriteAllBytes(textBox1.Text + @"\steamapps\common\GarrysMod\garrysmod\cache\workshop\262714246042402985.cache", cache2f);
+       
+            byte[] cache3a = Properties.Resources._311117166531522361;
+            File.WriteAllBytes(textBox1.Text + @"\steamapps\common\GarrysMod\garrysmod\cache\workshop\311117166531522361.cache", cache3a);
+
+            byte[] cache4a = Properties.Resources._468672091573255728;
+            File.WriteAllBytes(textBox1.Text + @"\steamapps\common\GarrysMod\garrysmod\cache\workshop\468672091573255728.cache", cache4a);
+
+            byte[] cache5a = Properties.Resources._536266067073151421;
+            File.WriteAllBytes(textBox1.Text + @"\steamapps\common\GarrysMod\garrysmod\cache\workshop\536266067073151421.cache", cache5a);
+
+            byte[] cache5b = Properties.Resources._576726193816506209;
+            File.WriteAllBytes(textBox1.Text + @"\steamapps\common\GarrysMod\garrysmod\cache\workshop\576726193816506209.cache", cache5b);
+
+            byte[] cache5c = Properties.Resources._576726193816698382;
+            File.WriteAllBytes(textBox1.Text + @"\steamapps\common\GarrysMod\garrysmod\cache\workshop\576726193816698382.cache", cache5c);
+
+            byte[] cache5d = Properties.Resources._576726193816815205;
+            File.WriteAllBytes(textBox1.Text + @"\steamapps\common\GarrysMod\garrysmod\cache\workshop\576726193816815205.cache", cache5d);
+
+            byte[] cache5e = Properties.Resources._576727710540886764;
+            File.WriteAllBytes(textBox1.Text + @"\steamapps\common\GarrysMod\garrysmod\cache\workshop\576727710540886764.cache", cache5e);
+
+            byte[] cache5f = Properties.Resources._577857239728512454;
+            File.WriteAllBytes(textBox1.Text + @"\steamapps\common\GarrysMod\garrysmod\cache\workshop\577857239728512454.cache", cache5f);
+
+            byte[] cache5g = Properties.Resources._577857239728769282;
+            File.WriteAllBytes(textBox1.Text + @"\steamapps\common\GarrysMod\garrysmod\cache\workshop\577857239728769282.cache", cache5g);
+
+            byte[] cache5h = Properties.Resources._577875246857033802;
+            File.WriteAllBytes(textBox1.Text + @"\steamapps\common\GarrysMod\garrysmod\cache\workshop\577875246857033802.cache", cache5h);
+
+            byte[] cache5i = Properties.Resources._579074999583885734;
+            File.WriteAllBytes(textBox1.Text + @"\steamapps\common\GarrysMod\garrysmod\cache\workshop\579074999583885734.cache", cache5i);
+
+            byte[] cache6a = Properties.Resources._597014361885335645;
+            File.WriteAllBytes(textBox1.Text + @"\steamapps\common\GarrysMod\garrysmod\cache\workshop\597014361885335645.cache", cache6a);
+
+            byte[] cache6b = Properties.Resources._720869898938009789;
+            File.WriteAllBytes(textBox1.Text + @"\steamapps\common\GarrysMod\garrysmod\cache\workshop\720869898938009789.cache", cache6b);
+
+            byte[] cache6c = Properties.Resources._846954458106118633;
+            File.WriteAllBytes(textBox1.Text + @"\steamapps\common\GarrysMod\garrysmod\cache\workshop\846954458106118633.cache", cache6c);
+
+            byte[] cache7a = Properties.Resources._900988960351239884;
+            File.WriteAllBytes(textBox1.Text + @"\steamapps\common\GarrysMod\garrysmod\cache\workshop\900988960351239884.cache", cache7a);
+
+            byte[] cache7b = Properties.Resources._900988960351397735;
+            File.WriteAllBytes(textBox1.Text + @"\steamapps\common\GarrysMod\garrysmod\cache\workshop\900988960351397735.cache", cache7b);
+
+            byte[] cache7c = Properties.Resources._901003824556294679;
+            File.WriteAllBytes(textBox1.Text + @"\steamapps\common\GarrysMod\garrysmod\cache\workshop\901003824556294679.cache", cache7c);
+
+            byte[] cache7d = Properties.Resources._902127097107403993;
+            File.WriteAllBytes(textBox1.Text + @"\steamapps\common\GarrysMod\garrysmod\cache\workshop\902127097107403993.cache", cache7d);
+
+            byte[] cache8a = Properties.Resources._3278922818507180118;
+            File.WriteAllBytes(textBox1.Text + @"\steamapps\common\GarrysMod\garrysmod\cache\workshop\3278922818507180118.cache", cache8a);
+
+            byte[] cache8b = Properties.Resources._3280046820534677070;
+            File.WriteAllBytes(textBox1.Text + @"\steamapps\common\GarrysMod\garrysmod\cache\workshop\3280046820534677070.cache", cache8b);
+
+            byte[] cache8c = Properties.Resources._3281171992739418238;
+            File.WriteAllBytes(textBox1.Text + @"\steamapps\common\GarrysMod\garrysmod\cache\workshop\3281171992739418238.cache", cache8c);
+
+            byte[] cache8d = Properties.Resources._3281182222657406780;
+            File.WriteAllBytes(textBox1.Text + @"\steamapps\common\GarrysMod\garrysmod\cache\workshop\3281182222657406780.cache", cache8d);
+
+            byte[] cache8e = Properties.Resources._3335221527208345019;
+            File.WriteAllBytes(textBox1.Text + @"\steamapps\common\GarrysMod\garrysmod\cache\workshop\3335221527208345019.cache", cache8e);
+
+            byte[] cache8f = Properties.Resources._3372369252222522694;
+            File.WriteAllBytes(textBox1.Text + @"\steamapps\common\GarrysMod\garrysmod\cache\workshop\3372369252222522694.cache", cache8f);
+            
             progressBar1.Value = 100;
             label2.Text = "Done!";
+
             stopWatch.Stop();
             TimeSpan ts = stopWatch.Elapsed;
             MessageBox.Show("Plugins should be repaired now! Extraction rate: " + ts, "Done!");

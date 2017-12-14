@@ -7,3 +7,4 @@ C:\Users\Superuser\source\repos\Elysian plugin fixer\Elysian plugin fixer\obj\De
 C:\Users\Superuser\source\repos\Elysian plugin fixer\Elysian plugin fixer\obj\Debug\Elysian plugin fixer.csproj.CoreCompileInputs.cache
 C:\Users\Superuser\source\repos\Elysian plugin fixer\Elysian plugin fixer\obj\Debug\Elysian plugin fixer.exe
 C:\Users\Superuser\source\repos\Elysian plugin fixer\Elysian plugin fixer\obj\Debug\Elysian plugin fixer.pdb
+C:\Users\Superuser\source\repos\Elysian plugin fixer\Elysian plugin fixer\obj\Debug\Elysian plugin fixer.csprojResolveAssemblyReference.cache

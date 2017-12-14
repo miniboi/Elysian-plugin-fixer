@@ -73,9 +73,79 @@ namespace Elysian_plugin_fixer.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
+        internal static byte[] _262714246042402985 {
+            get {
+                object obj = ResourceManager.GetObject("_262714246042402985", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        internal static byte[] _271725976966814083 {
+            get {
+                object obj = ResourceManager.GetObject("_271725976966814083", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        internal static byte[] _271725976966910576 {
+            get {
+                object obj = ResourceManager.GetObject("_271725976966910576", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        internal static byte[] _271725976967064071 {
+            get {
+                object obj = ResourceManager.GetObject("_271725976967064071", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        internal static byte[] _271725976967090974 {
+            get {
+                object obj = ResourceManager.GetObject("_271725976967090974", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
         internal static byte[] _272849249405403879 {
             get {
                 object obj = ResourceManager.GetObject("_272849249405403879", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        internal static byte[] _276219973932937725 {
+            get {
+                object obj = ResourceManager.GetObject("_276219973932937725", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        internal static byte[] _311117166531522361 {
+            get {
+                object obj = ResourceManager.GetObject("_311117166531522361", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -93,6 +163,166 @@ namespace Elysian_plugin_fixer.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
+        internal static byte[] _3278922818507180118 {
+            get {
+                object obj = ResourceManager.GetObject("_3278922818507180118", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        internal static byte[] _3280046820534677070 {
+            get {
+                object obj = ResourceManager.GetObject("_3280046820534677070", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        internal static byte[] _3281171992739418238 {
+            get {
+                object obj = ResourceManager.GetObject("_3281171992739418238", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        internal static byte[] _3281182222657406780 {
+            get {
+                object obj = ResourceManager.GetObject("_3281182222657406780", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        internal static byte[] _3335221527208345019 {
+            get {
+                object obj = ResourceManager.GetObject("_3335221527208345019", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        internal static byte[] _3372369252222522694 {
+            get {
+                object obj = ResourceManager.GetObject("_3372369252222522694", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        internal static byte[] _468672091573255728 {
+            get {
+                object obj = ResourceManager.GetObject("_468672091573255728", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        internal static byte[] _47629746175825132 {
+            get {
+                object obj = ResourceManager.GetObject("_47629746175825132", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        internal static byte[] _536266067073151421 {
+            get {
+                object obj = ResourceManager.GetObject("_536266067073151421", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        internal static byte[] _576726193816506209 {
+            get {
+                object obj = ResourceManager.GetObject("_576726193816506209", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        internal static byte[] _576726193816698382 {
+            get {
+                object obj = ResourceManager.GetObject("_576726193816698382", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        internal static byte[] _576726193816815205 {
+            get {
+                object obj = ResourceManager.GetObject("_576726193816815205", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        internal static byte[] _576727710540886764 {
+            get {
+                object obj = ResourceManager.GetObject("_576727710540886764", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        internal static byte[] _577857239728512454 {
+            get {
+                object obj = ResourceManager.GetObject("_577857239728512454", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        internal static byte[] _577857239728769282 {
+            get {
+                object obj = ResourceManager.GetObject("_577857239728769282", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        internal static byte[] _577875246857033802 {
+            get {
+                object obj = ResourceManager.GetObject("_577875246857033802", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
         internal static byte[] _579003433420153955 {
             get {
                 object obj = ResourceManager.GetObject("_579003433420153955", resourceCulture);
@@ -103,9 +333,89 @@ namespace Elysian_plugin_fixer.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
+        internal static byte[] _579074999583885734 {
+            get {
+                object obj = ResourceManager.GetObject("_579074999583885734", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        internal static byte[] _597014361885335645 {
+            get {
+                object obj = ResourceManager.GetObject("_597014361885335645", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        internal static byte[] _720869898938009789 {
+            get {
+                object obj = ResourceManager.GetObject("_720869898938009789", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        internal static byte[] _846954458106118633 {
+            get {
+                object obj = ResourceManager.GetObject("_846954458106118633", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
         internal static byte[] _89351987395614163 {
             get {
                 object obj = ResourceManager.GetObject("_89351987395614163", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        internal static byte[] _900988960351239884 {
+            get {
+                object obj = ResourceManager.GetObject("_900988960351239884", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        internal static byte[] _900988960351397735 {
+            get {
+                object obj = ResourceManager.GetObject("_900988960351397735", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        internal static byte[] _901003824556294679 {
+            get {
+                object obj = ResourceManager.GetObject("_901003824556294679", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        internal static byte[] _902127097107403993 {
+            get {
+                object obj = ResourceManager.GetObject("_902127097107403993", resourceCulture);
                 return ((byte[])(obj));
             }
         }

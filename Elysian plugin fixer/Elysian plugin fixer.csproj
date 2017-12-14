@@ -48,7 +48,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <ApplicationManifest>app1.manifest</ApplicationManifest>
   </PropertyGroup>
   <PropertyGroup>
     <ApplicationIcon>logo.ico</ApplicationIcon>
@@ -91,6 +91,9 @@
     <None Include="app.manifest">
       <SubType>Designer</SubType>
     </None>
+    <None Include="app1.manifest">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -101,12 +104,47 @@
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
     <None Include="Resources\170410764609146232.cache" />
+    <None Include="Resources\262714246042402985.cache" />
+    <None Include="Resources\271725976966814083.cache" />
+    <None Include="Resources\271725976966910576.cache" />
+    <None Include="Resources\271725976967064071.cache" />
+    <None Include="Resources\271725976967090974.cache" />
     <None Include="Resources\272849249405403879.cache" />
+    <None Include="Resources\276219973932937725.cache" />
+    <None Include="Resources\311117166531522361.cache" />
     <None Include="Resources\311117166547254615.cache" />
+    <None Include="Resources\3278922818507180118.cache" />
+    <None Include="Resources\3280046820534677070.cache" />
+    <None Include="Resources\3281171992739418238.cache" />
+    <None Include="Resources\3281182222657406780.cache" />
+    <None Include="Resources\3335221527208345019.cache" />
+    <None Include="Resources\3372369252222522694.cache" />
+    <None Include="Resources\468672091573255728.cache" />
+    <None Include="Resources\47629746175825132.cache" />
+    <None Include="Resources\536266067073151421.cache" />
+    <None Include="Resources\576726193816506209.cache" />
+    <None Include="Resources\576726193816698382.cache" />
+    <None Include="Resources\576726193816815205.cache" />
+    <None Include="Resources\576727710540886764.cache" />
+    <None Include="Resources\577857239728512454.cache" />
+    <None Include="Resources\577857239728769282.cache" />
+    <None Include="Resources\577875246857033802.cache" />
     <None Include="Resources\579003433420153955.cache" />
+    <None Include="Resources\579074999583885734.cache" />
+    <None Include="Resources\597014361885335645.cache" />
+    <None Include="Resources\720869898938009789.cache" />
+    <None Include="Resources\846954458106118633.cache" />
     <None Include="Resources\89351987395614163.cache" />
+    <None Include="Resources\900988960351239884.cache" />
+    <None Include="Resources\900988960351397735.cache" />
+    <None Include="Resources\901003824556294679.cache" />
+    <None Include="Resources\902127097107403993.cache" />
     <None Include="Resources\920118814680151843.cache" />
+    <None Include="Resources\cache.7z" />
+    <None Include="Resources\cache.zip" />
     <None Include="Resources\hidden.ttf" />
+    <None Include="Resources\lua.7z" />
+    <None Include="Resources\lua.zip" />
     <None Include="Resources\typenoksidi.ttf" />
   </ItemGroup>
   <ItemGroup>
@@ -114,6 +152,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="logo.ico" />
+    <None Include="Resources\7z.exe" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
